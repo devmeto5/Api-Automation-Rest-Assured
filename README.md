@@ -76,10 +76,6 @@ Feel free to modify the API endpoints or request data in the `APITest.java` file
 
 This project is licensed under the MIT License. You can freely use and modify it.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvement.
-
 ## Contact
 
 For any questions, reach out to [velikiidmitriisergeevich@gmail.com].
