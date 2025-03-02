@@ -10,7 +10,7 @@ This project is a simple demonstration of API automation testing using Java and 
 
 ## Getting Started
 
-Follow the steps below to set up and run the project locally.
+Follow the steps below to set up and run the project locally
 
 ### 1. Clone the Repository
 
